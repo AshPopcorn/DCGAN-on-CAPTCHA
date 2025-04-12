@@ -1,7 +1,7 @@
 1. DCGAN model jupyter notebook
 Assignment 1 code with its last running result, including 500 epoch training record and the visualization diagrams for important metrics.
 
-2. samples folder
+2. samples folder (zipped)
 Dataset extracted from Kaggle (https://www.kaggle.com/code/markkostantine/captcha-recognition-using-tensorflow-cnn).
 They are labeled by their filenames, so that can support conditional GANs (not practice).
 
